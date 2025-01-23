@@ -34,7 +34,7 @@ function App() {
         <main
           style={{
             flexGrow: 1,
-            overflow: "hidden",
+            overflow: "auto",
           }}
         >
           <Routes>
